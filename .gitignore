@@ -2,6 +2,7 @@
 node_modules
 /.pnp
 .pnp.js
+.yarn
 
 # testing
 /coverage
@@ -15,14 +16,17 @@ public
 .husky
 .vscode
 
+
 # misc
 .DS_Store
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+.pnp.*
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 package-lock.json
+yarn.lock
