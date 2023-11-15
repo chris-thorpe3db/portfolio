@@ -2,46 +2,37 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "PROMOS & PSAs",
+      "title": "Automotive Mental Health PSA",
+      "description": "In the 2021-22 School Year, I wrote, produced, and edited a PSA about taking care of your mental health, with a twist.",
+      "tags": [],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/auto-thumb.png",
+        "alt": "Auto PSA Thumbnail",
+        "linkTo": "https://www.youtube.com/watch?v=mmjxttZW4iI"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=mmjxttZW4iI"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "NEWSCASTS",
+      "title": "DTV Pacemaker Newscast",
+      "description": "In November of 2023, DTV was recognized as one of the best high school newscasts in the country. I directed and made graphics for our entry newscasts.",
+      "tags": [],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+        "src": "../../images/pacemaker-thumb.png",
+        "alt": "DTV Pacemaker Newscast Thumbnail",
+        "linkTo": "https://www.youtube.com/watch?v=mmjxttZW4iI"
+      }
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }

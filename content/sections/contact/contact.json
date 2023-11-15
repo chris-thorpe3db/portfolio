@@ -3,8 +3,8 @@
   "email": "chris@christhorpe.rocks",
   "description": "You can get in touch with me directly via email, or through any of the social media links below.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/hero.jpg",
+    "alt": "Portrait"
   },
   "socialProfiles": {
     "from": ["Mail", "Facebook", "Instagram", "LinkedIn"],

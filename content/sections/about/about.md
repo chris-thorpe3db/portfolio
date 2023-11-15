@@ -3,12 +3,10 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "Portrait"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+My name is Christopher Thorpe, and I'm an award-winning student journalist with the high school student-run news organization, <a href="https://www.youtube.com/davisondtv" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>DTV News</u></a>. Through this program, I have won multiple state and national awards, including a Pacemaker Award for best newscast in the United States.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+This program has extensively developed my communication skills and work ethic, as well as teaching me how to work effectively as a team.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I also perform with my school's audition concert band throughout the school year.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I plan to pursue a degree in Media Arts at Central Michigan University starting in the Fall of 2024.
