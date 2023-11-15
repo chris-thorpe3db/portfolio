@@ -1,7 +1,7 @@
 {
   "intro": "Hi, I'm Chris.",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/hero.jpg",
     "alt": "My Photo"
   },
   "image": {

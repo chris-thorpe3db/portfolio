@@ -1,25 +1,25 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://christhorpe.rocks/",
+    "title": "Christopher Thorpe Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Christopher Thorpe's Personal Portfolio.",
     "author": "Christopher Thorpe",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/hero.jpg",
     "bio": "Christopher Thorpe is a student journalist studying Media Arts at Central Michigan University..",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/konstantinmuenster",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
+      "linkedin": "https://www.linkedin.com/in//",
       "mail": "mailto:chris@christhorpe.rocks",
       "instagram": "https://instagram.com/christhorpe3db",
       "facebook": "https://facebook.com/christhorpe3db"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Chris Thorpe" },
     "navigation": {
       "header": [
         { "label": "About Myself", "url": "/#about" },
