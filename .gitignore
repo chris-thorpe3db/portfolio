@@ -24,6 +24,7 @@ public
 .env.test.local
 .env.production.local
 .pnp.*
+*.bat
 
 npm-debug.log*
 yarn-debug.log*
