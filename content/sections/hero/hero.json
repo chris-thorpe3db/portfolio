@@ -16,7 +16,7 @@
   },
   "description": "I'm a Broadcaster and Journalist based in Michigan, US.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["Mail", "Facebook", "Instagram", "LinkedIn"],
+    "showIcons": true
   }
 }

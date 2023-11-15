@@ -5,25 +5,27 @@
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "author": "Christopher Thorpe",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Christopher Thorpe is a student journalist studying Media Arts at Central Michigan University..",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/konstantinmuenster",
       "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "mail": "mailto:chris@christhorpe.rocks",
+      "instagram": "https://instagram.com/christhorpe3db",
+      "facebook": "https://facebook.com/christhorpe3db"
     }
   },
   "siteConfiguration": {
     "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "About Myself", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Stuff I've Done", "url": "/#projects" },
+        { "label": "Get In Touch", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -31,8 +33,10 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "About Myself", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Stuff I've Done", "url": "/#projects" },
+        { "label": "Get In Touch", "url": "/#contact" }
       ]
     },
     "featureToggles": {
