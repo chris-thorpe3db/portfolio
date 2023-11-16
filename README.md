@@ -1,5 +1,5 @@
 # Chris Thorpe Portfolio
-This is my personal portfolio built on Gatsby.JS and hosted on Google Firebase.
+This is my personal portfolio built on Gatsby.JS and hosted on Netlify.
 
 ## Prerequisites
  - Node.JS
