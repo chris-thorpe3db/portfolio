@@ -25,10 +25,34 @@
       "description": "In November of 2023, DTV was recognized as one of the best high school newscasts in the country. I directed and made graphics for our entry newscasts.",
       "tags": [],
       "image": {
-        "src": "../../images/pacemaker-thumb.png",
+        "src": "../../images/pacemaker-thumb.jpg",
         "alt": "DTV Pacemaker Newscast Thumbnail",
-        "linkTo": "https://www.youtube.com/watch?v=mmjxttZW4iI"
-      }
+        "linkTo": "https://www.youtube.com/watch?v=oeWLeHqNANs"
+      },
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=oeWLeHqNANs"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "PROMOS & PSAs",
+      "title": "DTV One Shot Promo",
+      "description": "In August of 2023, I produced, wrote, shot, and edited a promo done in one take, à la Goodfellas.",
+      "tags": [],
+      "image": {
+        "src": "../../images/oneshot-thumb.jpg",
+        "alt": "DTV One Shot Promo Thumbnail",
+        "linkTo": "https://www.youtube.com/watch?v=9Z3X6Q4ZQ5w"
+      },
+      "links": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=9Z3X6Q4ZQ5w"
+        }
+      ]
     }
   ],
   "button": {
