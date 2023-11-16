@@ -1,54 +1,36 @@
-<img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
+# Chris Thorpe Portfolio
+This is my personal portfolio built on Gatsby.JS and hosted on Google Firebase.
 
-<a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank">
-<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" />
-</a>
+## Prerequisites
+ - Node.JS
+ - Gatsby `npm install -g gatsby`
 
-# Gatsby Starter Portfolio Minimal Theme
+## Usage
+1. Clone this repo `git clone https://github.com/chris-thorpe3db/portfolio` and navigate to the root directory.
+2. Run `npm install`.
+3. For a local server, run `gatsby develop`. To generate a full website, run `gatsby build`.
 
-#### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.
+## Licensing
+This software is licensed under GNU GPL v3.0.
 
-Portfolio Minimal is a Gatsby Theme that let's you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
+This means that you can:
+ - Sell the program
+ - Modify it
+ - Distribute it
+ - Use it for Patent use
+ - Use it for Private use
 
-Just clone this Gatsby Starter, add the content. And that's it!
+As long as you:
+ - Add a copyright and license notice
+ - State changes made
+ - Disclose the source (this repo)
+ - Use the same license (GNU GPL v3.0)
 
-[Live Demo on Gatsby Cloud](https://gatsbystarterportfoliominimalt.gatsbyjs.io/) · [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
+By downloading and using this software, you agree to this license.
 
----
+The full legal text can be found within [LICENSE](https://github.com/chris-thorpe3db/portfolio/blob/main/LICENSE).
 
-## Installation
+This software comes with absolutely no liability or warranty.
 
-1. Install the Gatsby CLI
-
-   ```sh
-   npm install -g gatsby-cli
-   ```
-
-2. Create a new Gatsby site with the Portfolio Minimal Starter.
-
-   ```sh
-   gatsby new portfolio-minimal https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme
-   ```
-
-3. Once installed, you can begin developing your site.
-
-   ```sh
-   cd portfolio-minimal
-   gatsby develop
-   ```
-
-4. By default, the Portfolio Minimal Starter has a `content` directory at the root of your Gatsby site. There, you can edit the theme settings as well as add content for your sections. To learn more about it, have a look at the [Readme of Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme).
-
----
-
-## Issues?
-
-If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
-
-Thanks a lot for using this starter! 💪
-
----
-
-<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-Konstantin Münster – [konstantin.digital](https://konstantin.digital)
+<h3 style="text-align:center">This repository and all contents are Copyright © 2023 Christopher Thorpe.
+</h3>
