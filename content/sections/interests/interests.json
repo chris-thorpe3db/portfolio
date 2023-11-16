@@ -1,58 +1,58 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Video Games",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Playing Music",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/music.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Music Production",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/musicprod.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Sports",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/sports.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Photography",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/photography.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Travel",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/travel.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Software Development",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/dev.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Cooking",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/cooking.png",
         "alt": ""
       }
     }
@@ -60,6 +60,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 6
   }
 }
