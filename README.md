@@ -32,5 +32,5 @@ The full legal text can be found within [LICENSE](https://github.com/chris-thorp
 
 This software comes with absolutely no liability or warranty.
 
-<h3 style="text-align:center">This repository and all contents are Copyright © 2023 Christopher Thorpe.
+<h3 style="text-align:center">This repository and all contents are Copyright © 2024 Christopher Thorpe.
 </h3>
