@@ -10,3 +10,5 @@ This program has extensively developed my communication skills and work ethic, a
 I also perform with my school's audition concert band throughout the school year.
 
 I plan to pursue a degree in Media Arts at Central Michigan University starting in the Fall of 2024.
+
+<sup><sub>Image picture to the right courtesy <u>Ward McGinnis.</u></sub></sup>
