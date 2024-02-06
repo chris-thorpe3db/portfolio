@@ -3,7 +3,7 @@ imageSrc: "../../images/about-pic.jpg"
 imageAlt: "Portrait"
 ---
 
-My name is Christopher Thorpe, and I'm an award-winning student journalist with the high school student-run news organization, <a href="https://www.youtube.com/davisondtv" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>DTV News</u></a>. Through this program, I have won multiple state and national awards, including a Pacemaker Award for best newscast in the United States.
+My name is Christopher Thorpe, an award-winning student journalist with the high school student-run news organization, <a href="https://www.youtube.com/davisondtv" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>DTV News</u></a>. Through this program, I have won multiple state and national awards, including a Pacemaker Award for best newscast in the United States.
 
 This program has extensively developed my communication skills and work ethic, as well as my skills with popular Adobe CC software such as Premiere Pro, After Effects, and Photoshop.
 
