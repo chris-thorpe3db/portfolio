@@ -2,7 +2,7 @@
 This document is an overview of how my website's contents are licensed.
 
 ## Site Content
-All content on all pages, including blog articles are Copyright © Christopher Thorpe. Usage and sharing permitted in accordance under the Creative Commons CC BY-NC-ND.
+All content on all pages, including blog articles are Copyright © Christopher Thorpe. Usage and sharing permitted in accordance with the Creative Commons CC BY-NC-ND.
 
 This means you can:
  - Distribute the content
@@ -19,7 +19,7 @@ Full legal text can be located further down this document.
 Any images will be accompanied with a small footnote crediting the original creator. All images **without** such a notice are Copyright © Christopher Thorpe. All rights reserved.
 
 ## Other
-Any other files contained within this repository are forked from a template repository. licensed under the GNU GPL 3.0.
+Any other files contained within this repository are forked from a template repository. Licensed under the GNU GPL 3.0.
 
 This means that you can:
  - Sell the program
